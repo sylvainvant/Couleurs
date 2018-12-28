@@ -1,0 +1,11 @@
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\bin\Debug\Exo2a.exe.config
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.frmExo2a.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.Properties.Resources.resources
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.csproj.GenerateResource.Cache
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\bin\Debug\Exo2a.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\bin\Debug\Exo2a.pdb
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.exe
+C:\Users\svantieghem\Documents\Visual Studio 2012\Projects\Exo2a\Exo2a\obj\Debug\Exo2a.pdb
+G:\Visual Studio 2012\Projects\8)graphisme\Exo2a\Exo2a\bin\Debug\Exo2a.exe.config
+G:\Visual Studio 2012\Projects\8)graphisme\Exo2a\Exo2a\obj\Debug\Exo2a.exe
+G:\Visual Studio 2012\Projects\8)graphisme\Exo2a\Exo2a\obj\Debug\Exo2a.pdb
